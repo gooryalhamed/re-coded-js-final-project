@@ -87,13 +87,13 @@
   + **List idea**: 
   
 ## Linters
-- [ ] I ran the student's JavaScript code through [JSLint](http://jslint.com/) and told them about any JavaScript issues.
+- [x] I ran the student's JavaScript code through [JSLint](http://jslint.com/) and told them about any JavaScript issues.
 // it gave me mistakes in all pages.
 
-- [ ] I ran the student's HTML code through [the W3C's HTML validator](https://validator.w3.org/nu/) and told them about any HTML issues.
+- [x] I ran the student's HTML code through [the W3C's HTML validator](https://validator.w3.org/nu/) and told them about any HTML issues.
 // it gave me errors on all pages.
 
-- [ ] I ran the student's CSS code through [CSS Lint](http://csslint.net/) and told them about any CSS issues.
-no errors
+- [] I ran the student's CSS code through [CSS Lint](http://csslint.net/) and told them about any CSS issues.
+(no errors)
 **Name of reviewer**: 
 GOORY AL HAMED

@@ -44,7 +44,7 @@
 #### Student's Choice
 - [x] Project contains at least one more page that displays data from an API *other than GitHub*.
   + **Which API**: 
-- [ ] Page loads data via an AJAX call to the appropriate API.
+- [x] Page loads data via an AJAX call to the appropriate API.
 
 ## Style
 ### Overall

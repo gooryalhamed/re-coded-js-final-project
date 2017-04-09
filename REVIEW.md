@@ -1,4 +1,3 @@
-note: lines marked with x indicate that task is done.
 # Re:Coded Final Project Review Checklist
 
 **Name of project developer**: 
